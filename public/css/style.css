@@ -55,8 +55,16 @@ a {
     text-align: center;
     margin-left: 20%;
 }
-#search,#message-1,#message-2{
+#search{
     margin-left:20%;
+}
+#message-1,#message-3{
+    font-size: larger;
+    font-weight: bolder;
+}
+#weather{
+    margin-left:20%;
+    margin-right:40%;
 }
 #error{
     margin-top: 150px;
